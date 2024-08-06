@@ -1,0 +1,7 @@
+
+text
+"This is an example of adversarial text used for generating challenging and tricky inputs."
+"Adversarial examples are used to test the robustness of machine learning models."
+"Creating adversarial text samples involves generating inputs that are difficult for models to process."
+"Text generation models can be trained to produce adversarial examples to evaluate model performance."
+"This project focuses on fine-tuning GPT-2 for generating adversarial text samples."
